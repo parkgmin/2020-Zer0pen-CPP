@@ -18,7 +18,10 @@
     <ClCompile Include="Zer0penCpp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Ex1.cpp">
+    <ClCompile Include="iostream.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
