@@ -13,43 +13,64 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\1일차">
+      <UniqueIdentifier>{5792f744-fd13-454e-a25a-edba375686ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2일차">
+      <UniqueIdentifier>{4c45a687-3402-4c6a-af7c-d19c46721e61}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="iostream.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="array.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="const.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="static.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Martix.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="map.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="pointer.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ConstPointer.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="DynamicMemory.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="reference.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="array.cpp">
+      <Filter>소스 파일\1일차</Filter>
     </ClCompile>
     <ClCompile Include="callbyvalue.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="const.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstPointer.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicMemory.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="iostream.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="reference.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="string.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="encapsulation.cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="static.cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="public.cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="protected.cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="class.cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="정보은닉.cpp">
+      <Filter>소스 파일\2일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
