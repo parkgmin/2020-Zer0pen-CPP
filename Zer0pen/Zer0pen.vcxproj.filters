@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\2일차">
       <UniqueIdentifier>{4c45a687-3402-4c6a-af7c-d19c46721e61}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\2.5일차">
+      <UniqueIdentifier>{fcf25d20-c078-4353-8c2c-b963f83d15bb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Martix.cpp">
@@ -69,7 +72,28 @@
     <ClCompile Include="class.cpp">
       <Filter>소스 파일\2일차</Filter>
     </ClCompile>
-    <ClCompile Include="정보은닉.cpp">
+    <ClCompile Include="PascalCase.cpp">
+      <Filter>소스 파일\2.5일차</Filter>
+    </ClCompile>
+    <ClCompile Include="c_str.cpp">
+      <Filter>소스 파일\2.5일차</Filter>
+    </ClCompile>
+    <ClCompile Include="to_string.cpp">
+      <Filter>소스 파일\2.5일차</Filter>
+    </ClCompile>
+    <ClCompile Include="overloading.cpp">
+      <Filter>소스 파일\2.5일차</Filter>
+    </ClCompile>
+    <ClCompile Include="overriding.cpp">
+      <Filter>소스 파일\2.5일차</Filter>
+    </ClCompile>
+    <ClCompile Include="abstract_class.cpp">
+      <Filter>소스 파일\2.5일차</Filter>
+    </ClCompile>
+    <ClCompile Include="virtual function.cpp">
+      <Filter>소스 파일\2.5일차</Filter>
+    </ClCompile>
+    <ClCompile Include="privateinformation.cpp">
       <Filter>소스 파일\2일차</Filter>
     </ClCompile>
   </ItemGroup>
