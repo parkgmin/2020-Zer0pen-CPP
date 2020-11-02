@@ -1,5 +1,1 @@
-﻿  casting.cpp
-  vector.cpp
-  코드를 생성하고 있습니다...
-vector.obj : error LNK2005: main이(가) casting.obj에 이미 정의되어 있습니다.
-C:\Users\박경민\Desktop\2020-Zer0pen-CPP\x64\Debug\Zer0pen.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+﻿  Zer0pen.vcxproj -> C:\Users\박경민\Desktop\2020-Zer0pen-CPP\x64\Debug\Zer0pen.exe
