@@ -1,1 +1,8 @@
-﻿  Zer0pen.vcxproj -> C:\Users\박경민\Desktop\2020-Zer0pen-CPP\x64\Debug\Zer0pen.exe
+﻿빌드 시작: 2020-11-03 오후 4:54:58
+     1>2 노드의 "C:\Users\Sunrin\Desktop\2020-Zer0pen-CPP\Zer0pen\Zer0pen.vcxproj" 프로젝트(Build 대상)입니다.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.Cpp.Platform.targets(64,5): error MSB8020: The build tools for v141 (Platform Toolset = 'v141') cannot be found. To build using the v141 build tools, please install v141 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Upgrade Solution...".
+     1>"C:\Users\Sunrin\Desktop\2020-Zer0pen-CPP\Zer0pen\Zer0pen.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.00

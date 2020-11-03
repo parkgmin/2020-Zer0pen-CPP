@@ -123,5 +123,8 @@
     <ClCompile Include="copy1.cpp">
       <Filter>소스 파일\5일차</Filter>
     </ClCompile>
+    <ClCompile Include="copy2.cpp">
+      <Filter>소스 파일\5일차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
